@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Spit365
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning how to die
-- 💞️ I’m looking to collaborate on wtf do you mean collaborate
-- 📫 How to reach me no
-- 😄 Pronouns: fuck/off
-- ⚡ Fun fact: "commit changes" imma commit suicide
-- why tf are you reading dis?
+- 👀 I’m interested in java software & mc modding
+- 🌱 I’m currently learning mc rendering code to make ✨fancy✨ stuff
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me: spit365 on discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like to do flashy stuff
 
 <!---
 Spit365/Spit365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
